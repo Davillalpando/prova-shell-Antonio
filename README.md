@@ -1,4 +1,5 @@
-Aluno : Antôio Crlos Villalpando 
+Aluno : Antôio Carlos Villalpando
+
 RM : 563918 
 
 Script relatorio.sh: serve para gerar um resumo do estado atual do sistema,
