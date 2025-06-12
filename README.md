@@ -10,3 +10,6 @@ Ele mostra opções para o usuário escolher e, com base na escolha, executa o c
 
 Script dado.sh : serve para simular o lançamento de um dado de 6 lados, exibindo um número aleatório entre 1 e 6.
 
+Banheira de hidromassagem
+adiciona.
+git commit -m "Prova pronta"
